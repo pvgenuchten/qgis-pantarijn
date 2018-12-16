@@ -25,3 +25,8 @@ $(".aankeiler").each(function(){
 CSV is op adres gekoppeld met [BAG](http://nationaalgeoregister.nl/geonetwork/srv/metadata/aa3b5e6e-7baa-40c0-8972-3353e927ec2f) extract, koppeling via postcode+huisnummer
 
 Resultaat: kinderopvang.gpkg
+
+## of als csv.
+
+Snapshots van het LRK zijn ook als csv beschikbaar via https://data.overheid.nl/data/dataset/gegevens-kinderopvanglocaties-lrk. De licentie van de data is CC-0 (geen beperkingen).
+
